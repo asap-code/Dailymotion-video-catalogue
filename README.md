@@ -1,4 +1,3 @@
 # DailymotionCatalogue
 
-This Dailymotion video catalogue contains more than 100 video information. The videos included cover a large space of video categories such as sport, entertainment and news. 
-Every entry composed of videoID, video resolution, size(MB) and video duration(s). One can derive the average video bitrate by dividing the video size by its duration(*8). 
+This Dailymotion video catalogue contains more than 200 video meta-data. The videos cover a large space of topics such as sport, entertainment and news. One can derive the average video bitrate by dividing the video size by its duration. 
